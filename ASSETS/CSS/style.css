@@ -1,0 +1,119 @@
+body{
+    background-color: #252B42;
+}
+.td_1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+#td_1{
+    font-size: 20px;
+    padding-left: 70px;
+}
+#t1{
+    font-size: 15px;
+    padding-left: 90px;
+}
+#t2{
+    font-size: 15px;
+}
+#t3{
+    font-size: 15px;
+}
+#t4{
+    font-size: 15px;
+}
+.a_1{
+    text-decoration: none;
+    color: white;
+}
+#t5{
+    padding-left: 400px;
+    font: 15px;
+}
+#t6{
+    padding-left: 15px;
+}
+#B1{
+    color: white;
+    background-color: hsl(202, 87%, 54%);
+    height: 40px;
+    width: 100px;
+}
+#t7{
+    font-size: 15px;
+    padding-top: 110px;
+    color: #23A8F3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 670px;
+}
+#t8{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    padding-left: 600px;
+    padding-top: 20px;
+}
+#t_8{
+    padding-left: 570px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+#t9{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 560px;
+}
+#t_10{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    padding-left: 600px;
+}
+#B2{
+    color: white;
+    background-color:  hsl(202, 87%, 54%);
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+}
+#B3{
+    color: #23A8F3;
+    background-color: #252B42;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+}
+#t_11{
+    padding-left: 570px;
+    padding-top: 20px;
+}
+#t_12{
+    padding-top: 20px;
+}
+#div_1{
+    height: 120px;
+    width: 240px;
+    margin-top: 40px;
+    margin-left: 250px;
+    color: #23A8F3;
+    
+}
+.td_13{
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 16px;
+  
+}
+.div_1 ul li{
+    display: inline-block;
+    padding-left: 200px;
+    color: #23A8F3;
+    padding-top: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
